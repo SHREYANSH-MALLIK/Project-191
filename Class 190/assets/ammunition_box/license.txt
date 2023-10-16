@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ammunition Box
+* source:	https://sketchfab.com/3d-models/ammunition-box-17898b0b68114516b704d0aabc9d2142
+* author:	Darren McNerney 3D (https://sketchfab.com/DarrenMcnerney3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ammunition Box" (https://sketchfab.com/3d-models/ammunition-box-17898b0b68114516b704d0aabc9d2142) by Darren McNerney 3D (https://sketchfab.com/DarrenMcnerney3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
